@@ -5,7 +5,8 @@
 # Liubov Agafonova
 ## Contact Information
 - **Address:** Podgorica, Montenegro
-- **Phone:** +382-67-881-036
+- **Phone:** [+382-67-881-036](tel:+38267881036)
+- **Discord:** [Ljubav(Ljubava87)#1150](https://discordapp.com/users/1150)
 - **Email:** babalubie@gmail.com
 - **LinkedIn:** [Ljubava Agafonova](www.linkedin.com/in/ljubava-undefined-721526254)
 
@@ -67,16 +68,19 @@ With a burning desire to learn and grow, I am ready to take on new challenges at
 ### [Creating a slider for Eco-cafe "FreshGO"](https://ljubava87.github.io/freshgocafe-slider/)
 Creating a slider as part of a marathon on frontend development from the Result School  
 *Podgorica, Montenegro*
+
 *[See the project](https://github.com/Ljubava87/slders-disign.git)*
 
 ### [Creating a slider for my works](https://ljubava87.github.io/slders-disign/)
 Creating a slider as part of a marathon on frontend development from the Result School  
 *Podgorica, Montenegro*
+
 *[See the project](https://github.com/Ljubava87/slders-disign.git)*
 
 ### [Creating a minigame](https://ljubava87.github.io/LemonGame/)
 Creating a minigame as part of a marathon on frontend development from the Result School  
 *Podgorica, Montenegro*
+
 *[See the project](https://github.com/Ljubava87/LemonGame.git)*
 
 
