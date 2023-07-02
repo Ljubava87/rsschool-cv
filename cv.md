@@ -34,6 +34,10 @@ With a burning desire to learn and grow, I am ready to take on new challenges at
 - Fundamentals of PR work to effectively promote information.
 - Organization of meetings and events.
 
+## Language Skills
+- Russian: Native
+- English: Upper-Intermediate (B2)
+- Serbian: Pre-Intermediate (A2)
 
 ## Work Experience
 ### Graphic designer
