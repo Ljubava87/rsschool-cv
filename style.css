@@ -1,5 +1,6 @@
 body {
     font-family: 'Comfortaa', cursive;
+    background-color: #fbf5d6;
 }
 
 .container {
@@ -11,14 +12,16 @@ body {
 }
 
 .left-column {
-    background-image: linear-gradient(to right, #828277, #dacd83);
+    background-color: rgb(255, 255, 255);
     flex-basis: 33%;
-    padding: 20px 20px;
+    padding: 25px 25px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);;
+    border-radius: 5px;
 }
 
 .right-column {
     flex-basis: 66%;
-    padding: 20px 20px;
+    padding: 25px 25px;
 }
 
 .photo-profile img {
