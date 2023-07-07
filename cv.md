@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="LMA!.jpg" alt="Photo Profile" width="140vh" height="180vw" style="border-radius: 30%;">
+  <img src="LMA.jpg" alt="Photo Profile" width="140vh" height="180vw" style="border-radius: 30%;">
 </div>
 
 # Liubov Agafonova
@@ -15,19 +15,19 @@
 With a burning desire to learn and grow, I am ready to take on new challenges at RS School. My background in media, design, and IT training allows me to be a versatile professional. I have successfully worked for a socio-political publication as a photojournalist, correspondent and typesetter. Promoting science and creating press releases, I was active in the press office of the world's leading aviation science center. I also did graphic and web design and created media support for music festivals. My latest achievement is the completion of the "Software Testing" course at the world's leading IT company First Line Software. I am ready to use my experience and knowledge to actively participate in the RS School projects and to continue developing in the IT sphere.
 
 ## Education
-- **Graduate in organizational management**  
-  The state university of management, Moscow, Russia  
+- **Graduate in organizational management**
+  The state university of management, Moscow, Russia
   Graduation Year: 2011
 
-- **Specialist in manual testing of software**  
-  First Line Software QA Engeneer School, Budva, Montenegro  
+- **Specialist in manual testing of software**
+  First Line Software QA Engeneer School, Budva, Montenegro
   Graduation Year: 2023
 
 ## Skills
 - Adobe Photoshop
-- Adobe InDesign 
+- Adobe InDesign
 - Figma
-- Tilda 
+- Tilda
 - Basic HTML, CSS, JS, Git, VSCode, WebStorm skills
 - Video editing and video processing - skills.
 - Ability to write quality texts and articles.
@@ -41,7 +41,7 @@ With a burning desire to learn and grow, I am ready to take on new challenges at
 
 ## Work Experience
 ### Graphic designer
-**Freelance**, Podgorica, Montenegro  
+**Freelance**, Podgorica, Montenegro
 *March, 20 2022 - present*
 
 - Creation of corporate identity for clients.
@@ -50,7 +50,7 @@ With a burning desire to learn and grow, I am ready to take on new challenges at
 - Website design and development.
 
 ### PR specialist
-**[The Central Aerohydrodynamic Institute](http://tsagi.com/)**, Moscow, Russia  
+**[The Central Aerohydrodynamic Institute](http://tsagi.com/)**, Moscow, Russia
 *December 2, 2011 - August 2, 2022*
 - Writing press releases and popular science articles.
 - Photography of people, objects and events.
@@ -60,7 +60,7 @@ With a burning desire to learn and grow, I am ready to take on new challenges at
 - Popularizing science to the masses.
 
 ### Executive secretary, journalist, photojournalist
-**[Social and political publication Aviagrad](https://inzhukovskiy.ru/)**, Zhukovsky, Moscow region, Russia  
+**[Social and political publication Aviagrad](https://inzhukovskiy.ru/)**, Zhukovsky, Moscow region, Russia
 *December 2, 2006 - November 2, 2011*
 - Full cycle of creation of the printed and Internet edition.
 - Planning and organization of editorial activities.
@@ -70,19 +70,19 @@ With a burning desire to learn and grow, I am ready to take on new challenges at
 
 ## Projects
 ### [Creating a slider for Eco-cafe "FreshGO"](https://ljubava87.github.io/freshgocafe-slider/)
-Creating a slider as part of a marathon on frontend development from the Result School  
+Creating a slider as part of a marathon on frontend development from the Result School
 *Podgorica, Montenegro*
 
 *[See the project](https://github.com/Ljubava87/slders-disign.git)*
 
 ### [Creating a slider for my works](https://ljubava87.github.io/slders-disign/)
-Creating a slider as part of a marathon on frontend development from the Result School  
+Creating a slider as part of a marathon on frontend development from the Result School
 *Podgorica, Montenegro*
 
 *[See the project](https://github.com/Ljubava87/slders-disign.git)*
 
 ### [Creating a minigame](https://ljubava87.github.io/LemonGame/)
-Creating a minigame as part of a marathon on frontend development from the Result School  
+Creating a minigame as part of a marathon on frontend development from the Result School
 *Podgorica, Montenegro*
 
 *[See the project](https://github.com/Ljubava87/LemonGame.git)*
