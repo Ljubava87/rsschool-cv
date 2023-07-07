@@ -9,6 +9,7 @@ html {
 header {
     background-color:#ffffff;
     transition: top 0.3s ease-in-out;
+    position: relative;
     position: sticky;
     top: 0;
     z-index: 999;
@@ -16,11 +17,14 @@ header {
     width: 100%;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
-header {
-    position: relative;
-    position: sticky;
-    top: 0;
+
+
+  .logo {
+    display: block;
+    margin: 0 auto;
+    width: 6vw;
   }
+
 .nav-list {
     list-style: none;
     padding: 0 20px;
@@ -59,6 +63,7 @@ h1 {
     font-weight: 300;
     text-align: center;
     margin-bottom: 10px;
+    margin-top: 10px;
 }
 h2 {
     padding-top: 1px;
